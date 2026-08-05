@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">✨ Computer Engineering student<br>📚 I'm currently learning Python<br>🎯 Goals: Learn to code</p>
+<p align="left">✨ Computer Engineering student<br>📚 Building strong foundations in Data Structures, Algorithms, and Software Engineering. <br>🎯 Goals: Contribute to open-source projects </p>
 
 ###
 
